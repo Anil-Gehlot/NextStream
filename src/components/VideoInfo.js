@@ -1,7 +1,6 @@
-import React, { useEffect, useState } from "react";
-import { VIDEO_API } from "../utils/constant";
+import React, { useState } from "react";
 import { formatViews } from "../utils/constant";
-import { FaUserCircle } from "react-icons/fa";
+
 
 const VideoInfo = ({ info }) => {
   const [showDescription, setShowDescription] = useState(false);
