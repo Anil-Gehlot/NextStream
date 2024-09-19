@@ -13,7 +13,7 @@ const Comments = ({ videoId }) => {
 
   useEffect(() => {
     getComments();
-  }, [videoId]);
+  });
 
   return (
     <div>
