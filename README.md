@@ -2,6 +2,10 @@
 
 NextStream is a YouTube-like application built with React. It features dynamic video content, search functionality with debouncing and caching, live chat via API polling, YouTube comments loading, and seamless navigation through videos.
 
+## Live Demo
+Try the live demo: [NextStream](https://next-stream.netlify.app/)
+
+
 ## Features
 
 - **Responsive Design**: Optimized layout for various screen sizes.
