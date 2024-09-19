@@ -1,4 +1,4 @@
-const YOUTUBE_API_KEY = "AIzaSyAIi8VgLmgWhKlLLLRkRAGWCco6Nj2nY_I";
+const YOUTUBE_API_KEY = "AIzaSyCtWHumXM_UBTAzL_fgWxB-7_huvkARmLc";
 
 
 export const YOUTUBE_VIDEO_API =
